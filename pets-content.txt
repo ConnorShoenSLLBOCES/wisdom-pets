@@ -1,0 +1,14 @@
+
+6b. Give the paragraph the following styles, "text-align:justify; max-width:600px; margin:auto; padding-bottom:30px;"
+
+7a. Within the <div> that we did Chapter 2's Challenge in which is labeled with the "container" and "challenge" class attributes, place an <h3> header for, "REVIEWS"
+
+7b. Add styles to insure that it's aligned center, font size 16 point, and has top padding of "30px"
+
+8a. On the nested <div> with a class of "row", add "style='background-color:white;'" inside the tag.
+
+8b. On all 4 of the divs nested inside of class "row" div, add the same following inline styles, "border:5px solid #DFDFDF;background-color:white;padding:10px;"
+
+9a. Add the below text content into each of the 4 divs as specified.
+
+9b. The first line of each div's text content should be a bolded <h6> header, while each separated text block should be a paragraph.
